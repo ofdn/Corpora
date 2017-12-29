@@ -1,2 +1,2 @@
-// Santali language
-// Created by XXX (mail@domain.com)
+# Santali language
+# Created by XXX (mail@domain.com)
